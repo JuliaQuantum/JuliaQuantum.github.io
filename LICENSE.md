@@ -1,4 +1,4 @@
-Software License Agreement (BSD License)
+Software License Agreement For Website Souce Code (BSD License)
 ========================================
 
 Copyright 2013 Yahoo! Inc. All rights reserved.
