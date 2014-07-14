@@ -3,11 +3,11 @@ README for JuliaQ Members
 
 Greeting!
 
-We are at the stage of initializing the JuliaQ organization. All discussions should go to the [issue page](https://github.com/JuliaQ/JuliaQ.github.io/issues) on this JuliaQ.github.io project repository. Progress and timeline for the initiative stage can be monitored on the [Issues#1 page](https://github.com/JuliaQ/JuliaQ.github.io/issues/2). Thanks for your contributions!
+We are at the stage of initializing the JuliaQ organization. All discussions should go to the [issue page](https://github.com/JuliaQ/JuliaQ.github.io/issues) on this JuliaQ.github.io project repository. Progress and timeline for the initiative stage can be monitored on the [Issues#2 page](https://github.com/JuliaQ/JuliaQ.github.io/issues/2). Thanks for your contributions!
 
-* Basic agreements of operating JuliaQ project are open for discussing in [Issue#3](https://github.com/JuliaQ/JuliaQ.github.io/issues/3).
+* Basic agreements of operating JuliaQ project are open for discussing on [Issue#3](https://github.com/JuliaQ/JuliaQ.github.io/issues/3).
 
-* The goal of the first release cycle is open for your participation in [Issues#1](https://github.com/JuliaQ/JuliaQ.github.io/issues/1).
+* The goal of the first release cycle is open for your participation on [Issues#1](https://github.com/JuliaQ/JuliaQ.github.io/issues/1).
 
 * The overall roadmap of JuliaQ projects is under pavement in the [Roadmap repo](https://github.com/JuliaQ/Roadmap).
 
