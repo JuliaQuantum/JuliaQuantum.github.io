@@ -1,14 +1,14 @@
-README for JuliaQ Members
+README for JuliaQuantum Members
 ========================
 
 Greeting!
 
-We are at the stage of initializing the JuliaQ organization. All discussions should go to the [issue page](https://github.com/JuliaQ/JuliaQ.github.io/issues) on this JuliaQ.github.io project repository. Progress and timeline for the initiative stage can be monitored on the [Issues#2 page](https://github.com/JuliaQ/JuliaQ.github.io/issues/2). Thanks for your contributions!
+We are at the stage of initializing the JuliaQuantum organization. All discussions should go to the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues) on this JuliaQuantum.github.io project repository. Progress and timeline for the initiative stage can be monitored on the [Issues#2 page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/2). Thanks for your contributions!
 
-* Basic agreements of operating JuliaQ projects are open for discussing on [Issue#3](https://github.com/JuliaQ/JuliaQ.github.io/issues/3).
-* The goal of the first release cycle is open for your participation on [Issues#1](https://github.com/JuliaQ/JuliaQ.github.io/issues/1).
-* The overall roadmap of JuliaQ projects is under pavement in the [Roadmap repo Issue#1](https://github.com/JuliaQ/Roadmap/issues/1).
-* The first proposal regarding the code base can be found on [Issue#4](https://github.com/JuliaQ/JuliaQ.github.io/issues/4). Welcome to post your proposals and comments along this thread. 
+* Basic agreements of operating JuliaQuantum projects are open for discussing on [Issue#3](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/3).
+* The goal of the first release cycle is open for your participation on [Issues#1](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/1).
+* The overall roadmap of JuliaQuantum projects is under pavement in the [Roadmap repo Issue#1](https://github.com/JuliaQuantum/Roadmap/issues/1).
+* The first proposal regarding the code base can be found on [Issue#4](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/4). Welcome to post your proposals and comments along this thread. 
 
 
 This repository also hosts the source code for our public pages. Edit it if you like. We are using [Pure CSS](http://purecss.io/) template. Some examples on editing the webpage source code are given below.
