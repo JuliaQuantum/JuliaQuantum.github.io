@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The Julia Blog</title>
+ <link href="http://julialang.org/blog/feed.xml" rel="self"/>
+ <link href="http://julialang.org/blog"/>
+ <updated>2014-12-27T10:07:41-07:00</updated>
+ <id>http://julialang.org/blog</id>
+ <author>
+   <name>Julia Developers</name>
+   <email>julia-dev@googlegroups.com</email>
+ </author>
+
+ 
+ 
+</feed>
