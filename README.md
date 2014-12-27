@@ -1,39 +1,8 @@
-<a name="logo"/>
-<div align="center">
-<a href="http://http://juliaquantum.github.io/" target="_blank">
-<img src="http://juliaquantum.github.io/images/JuliaQuantum_logo_250x142.png" alt="JuliaQuantum Logo" height="75"></img>
-</a>
-</div>
+This is the GitHub repository for the Julia programming language project's main website, [julialang.org](http://julialang.org/). The repository for the source code of the language itself can be found at [github.com/JuliaLang/julia](https://github.com/JuliaLang/julia).
 
-<a name="Textlogo"/>
-<div align="center">
-<a href="http://http://juliaquantum.github.io/" target="_blank">
-<img src="http://juliaquantum.github.io/images/JuliaQuantum.png" alt="JuliaQuantum Logo in Text" height="100"></img>
-</a>
-</div>
+Julia Website is generated using GitHub pages and Jekyll, follow [these instructions](https://help.github.com/articles/using-jekyll-with-pages).
 
-## README for JuliaQuantum Members
+In short, be sure you have ruby installed, `$ gem install bundler` to install bundler, run `$ bundle install` from the root of this repository.
+You only have to do this once.
 
-
-This repository hosts the source code of the [official website for JuliaQuantum organization](http://http://juliaquantum.github.io/), and hosts discussions for the organization-wide issues. All announcements and discussions regarding JuliaQuantum can be tracked through the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues). Overall roadmap for the organization should direct to the [Roadmap project page](https://github.com/JuliaQuantum/Roadmap). The list of current projects under JuliaQuantum can be viewed on the organization's [GitHub summary page](https://github.com/JuliaQuantum). 
-
-To participate a project under JuliaQuantum, please read through and understand the [Basic Agreement](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/3). 
-All questions regarding the organization and proposals of new projects can be posted as an issue on this repo.  
-
-
-The source code of our public website in this repo is coded using the [Pure CSS](http://purecss.io/) template. Feel free to fork and edit the source code. Some examples on editing the webpage source code are given below.
-
-
-
-## Pure CSS Layout Examples
-
-
-Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
-
-[pure]: http://purecss.io/
-[pure-site]: https://github.com/yui/pure-site
-
-
-## Licenses for the source code
-
-See the **LICENSE.md** for more details.
+Now you can run `$ bundle exec jekyll serve` in the root of this repository to serve it, usually on `http://localhost:4000`.
