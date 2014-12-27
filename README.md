@@ -1,14 +1,14 @@
 <a name="logo"/>
 <div align="center">
 <a href="http://http://juliaquantum.github.io/" target="_blank">
-<img src="http://juliaquantum.github.io/images/JuliaQuantum_logo_250x142.png" alt="JuliaQuantum Logo" height="142"></img>
+<img src="http://juliaquantum.github.io/images/JuliaQuantum_logo_250x142.png" alt="JuliaQuantum Logo" height="75"></img>
 </a>
 </div>
 
 <a name="Textlogo"/>
 <div align="center">
 <a href="http://http://juliaquantum.github.io/" target="_blank">
-<img src="http://juliaquantum.github.io/images/JuliaQuantum.png" alt="JuliaQuantum Logo in Text" height="142"></img>
+<img src="http://juliaquantum.github.io/images/JuliaQuantum.png" alt="JuliaQuantum Logo in Text" height="100"></img>
 </a>
 </div>
 
