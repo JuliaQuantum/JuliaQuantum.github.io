@@ -1,22 +1,32 @@
-README for JuliaQuantum Members
-========================
+<a name="logo"/>
+<div align="center">
+<a href="http://http://juliaquantum.github.io/" target="_blank">
+<img src="http://juliaquantum.github.io/images/JuliaQuantum_logo_250x142.png" alt="JuliaQuantum Logo" height="142"></img>
+</a>
+</div>
 
-Greeting!
+<a name="Textlogo"/>
+<div align="center">
+<a href="http://http://juliaquantum.github.io/" target="_blank">
+<img src="http://juliaquantum.github.io/images/JuliaQuantum.png" alt="JuliaQuantum Logo in Text" height="142"></img>
+</a>
+</div>
 
-We are at the stage of initializing the JuliaQuantum organization. All discussions should go to the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues) on this JuliaQuantum.github.io project repository. Progress and timeline for the initiative stage can be monitored on the [Issues#2 page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/2). Thanks for your contributions!
-
-* Basic agreements of operating JuliaQuantum projects are open for discussing on [Issue#3](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/3).
-* The goal of the first release cycle is open for your participation on [Issues#1](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/1).
-* The overall roadmap of JuliaQuantum projects is under pavement in the [Roadmap repo Issue#1](https://github.com/JuliaQuantum/Roadmap/issues/1).
-* The first proposal regarding the code base can be found on [Issue#4](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/4). Welcome to post your proposals and comments along this thread. 
-
-
-This repository also hosts the source code for our public pages. Edit it if you like. We are using [Pure CSS](http://purecss.io/) template. Some examples on editing the webpage source code are given below.
+## README for JuliaQuantum Members
 
 
+This repository hosts the source code of the [official website for JuliaQuantum organization](http://http://juliaquantum.github.io/), and hosts discussions for the organization-wide issues. All announcements and discussions regarding JuliaQuantum can be tracked through the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues). Overall roadmap for the organization should direct to the [Roadmap project page](https://github.com/JuliaQuantum/Roadmap). The list of current projects under JuliaQuantum can be viewed on the organization's [GitHub summary page](https://github.com/JuliaQuantum). 
 
-Pure CSS Layout Examples
-========================
+To participate a project under JuliaQuantum, please read through and understand the [Basic Agreement](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/3). 
+All questions regarding the organization and proposals of new projects can be posted as an issue on this repo.  
+
+
+The source code of our public website in this repo is coded using the [Pure CSS](http://purecss.io/) template. Feel free to fork and edit the source code. Some examples on editing the webpage source code are given below.
+
+
+
+## Pure CSS Layout Examples
+
 
 Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
 
@@ -24,10 +34,6 @@ Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
 [pure-site]: https://github.com/yui/pure-site
 
 
-License for the Pure CSS source code
-------------------------------------
+## Licenses for the source code
 
-This software is free to use under the Yahoo! Inc. BSD license.
-See the [LICENSE file][] for license text and copyright information.
-
-[LICENSE file]: https://github.com/yui/pure-site/blob/master/LICENSE.md
+See the **LICENSE.md** for more details.
