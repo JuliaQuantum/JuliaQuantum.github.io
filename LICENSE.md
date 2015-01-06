@@ -29,10 +29,21 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-License for Logo Images
+License for Logo Images 
 ========================
 
+Copyright 2015 JuliaQuantum. All rights reserved.
 
-<dl>
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> The artworks of logo images for the JuliaQuantum organization and the associated websites are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. One set of samples of the source code and derived bitmap files can be found under the images directory named beginning with <it>JuliaQuantum</it>. 
-</dl>
+Redistribution and use in source and binary forms, with or without
+modification, are permitted for building and testing websites
+and related projects belonging to JuliaQuantum organization only. 
+Using the source code of logo images presented in this repository with names 
+starting with JuliaQuantum and the derived binary forms, bit images and 
+trademarks for any other purposes should request the permission from the 
+corresponding authors and the owners of the JuliaQuantum organization. 
+
+The logo images are modified based upon the work provided by 
+[JuliaLang.org](http://julialang.org). Redistribution, modification and use 
+of those resources beyond the purpose of servering granted projects under 
+JuliaQuantum also need the permission from the original authors and copyright
+holders from JuliaLang.org. 
