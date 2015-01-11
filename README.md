@@ -12,8 +12,8 @@
 </a>
 </div>
 
-## README for JuliaQuantum Members
 
+## 
 
 This is the GitHub repository for the JuliaQuantum organization's main website, [juliaquantum.github.io](http://juliaquantum.github.io/). On the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues), announcements and discussions regarding the JuliaQuantum organization are also actively posted. The overall roadmap for the organization can be found in the [Roadmap project page](https://github.com/JuliaQuantum/Roadmap). The list of current projects under JuliaQuantum can be viewed on the organization's [GitHub summary page](https://github.com/JuliaQuantum).
 
