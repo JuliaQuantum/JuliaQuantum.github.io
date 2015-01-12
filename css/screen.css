@@ -77,16 +77,53 @@ ul {
   margin-left: 1.8em;
 }
 
+/* Figure */
 .figure {
-  text-align: center;
+  /* text-align: center; */
+  display: inline-block;
 }
   .figure p.note { font-size: 75%; }
+  .figure img
+  {
+    display: block;
+    width: 100%;
+  }
 
+  .figure-full
+  {
+    display: block;
+    width: 100%;
+    margin: 0 0 2em 0;
+  }
+  .figure-half
+  {
+    display: block;
+    width: 50%;
+    margin: 0 0 2em 0;
+  }
+  .figure-left
+  {
+    float: left;
+    margin: 0 2em 2em 0;
+  }
+  .figure-centered
+  {
+    display: block;
+    margin: 0 0 2em 0;
+  }
+  .figure-centered img
+  {
+    margin: 0 auto;
+    width: auto;
+  }
+
+/* Horizonal line */
 hr {
   margin: 40px 0 10px 0;
   border: 1px solid #ddd;
 }
 
+/* Grid */
 .grid-left, .grid-right {
   float: left;
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
@@ -104,6 +141,44 @@ hr {
     padding-left: 0.5em;
   }
 }
+
+/* Wrapper */
+.wrapper
+  {
+    background-image: none;
+    /* box-shadow: inset 0px 1px 0px 0px rgba(0,0,0,0.05), inset 0px 2px 3px 0px rgba(0,0,0,0.1); */
+    width:780px;
+    margin:0 auto;
+    display:table;
+  }
+  .wrapper span{
+    vertical-align:middle;
+    display: table-cell;
+    }
+  .wrapper-left
+  {
+    box-shadow: none;
+    float:left;
+    width:390px;
+  }
+  .wrapper-right
+  {
+    box-shadow: none;
+    float:right;
+    width:390px;
+  }
+  .wrapper-left2of3
+  {
+    box-shadow: none;
+    float:left;
+    width:520px;
+  }
+  .wrapper-right1of3
+  {
+    box-shadow: none;
+    float:right;
+    width:260px;
+  }
 
 /* benchmarks table */
 
