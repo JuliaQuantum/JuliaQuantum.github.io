@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Julia for Quantum
+title:  Julia Libraries for Quantum Science and Technology
 ---
 
 <header>
@@ -25,4 +25,8 @@ title:  Julia for Quantum
       <div class="wrapper-right1of3" align="center">
         <span class="figure" vertical-align="middle"><img src="images/logo_icon.png" alt="JuliaQuantum Logo" height="155"/></span>
       </div>
+</div>
+
+<div>
+  <h1 align="center">Work in progress. Contributions are welcome!</h1>
 </div>
