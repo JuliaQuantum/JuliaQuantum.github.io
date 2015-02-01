@@ -13,7 +13,7 @@
 </div>
 
 
-## 
+##
 
 This is the GitHub repository for the JuliaQuantum organization's main website, [juliaquantum.github.io](http://juliaquantum.github.io/). On the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues), announcements and discussions regarding the JuliaQuantum organization are also actively posted. The overall roadmap for the organization can be found in the [Roadmap project page](https://github.com/JuliaQuantum/Roadmap). The list of current projects under JuliaQuantum can be viewed on the organization's [GitHub summary page](https://github.com/JuliaQuantum).
 
@@ -22,11 +22,17 @@ To contribute to an existing project under JuliaQuantum, just go to the [corresp
 
 ## How to Edit the Website
 
-The JuliaQuantum Website is generated in a blogging style using GitHub pages and Jekyll, follow [these instructions](https://help.github.com/articles/using-jekyll-with-pages).
+The JuliaQuantum Website is generated in a blogging style using GitHub pages and Jekyll,
+follow [these instructions](https://help.github.com/articles/using-jekyll-with-pages).
 
-There are many ways to edit and preview the website. In general, you can either stick to an online tool like [Prose](http://prose.io) or do so offline.
+There are many ways to edit and preview the website.
+In general, you can either stick to an online tool like [Prose](http://prose.io) or do so offline.
 
-To edit and preview offline, be sure you have ruby installed, `$ gem install bundler` to install bundler, run `$ bundle install` from the root of this repository.
+To edit and preview offline, be sure you have ruby installed,
+`$ gem install bundler` to install bundler, run `$ bundle install` from the root of this repository.
 You only have to do this once.
 
-Now you can run `$ bundle exec jekyll serve` in the root of this repository to serve it, usually you can preview the website on `http://localhost:4000`.
+Now you can run `$ bundle exec jekyll serve` in the root of this repository to serve it,
+usually you can preview the website on `http://localhost:4000`.
+Drafts should be put into the `drafts/_posts` folder and can be previewed on a local computer.
+All posts should be named using the correct date of posting and a title joined by hyphens. 
