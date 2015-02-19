@@ -15,7 +15,7 @@
 ## README for JuliaQuantum Members
 
 
-This repository hosts the source code of the [official website for JuliaQuantum organization](http://http://juliaquantum.github.io/), and hosts discussions for the organization-wide issues. All announcements and discussions regarding JuliaQuantum can be tracked through the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues). Overall roadmap for the organization should direct to the [Roadmap project page](https://github.com/JuliaQuantum/Roadmap). The list of current projects under JuliaQuantum can be viewed on the organization's [GitHub summary page](https://github.com/JuliaQuantum). 
+This repository hosts the source code of the [official website for JuliaQuantum organization](http://juliaquantum.github.io/), and hosts discussions for the organization-wide issues. All announcements and discussions regarding JuliaQuantum can be tracked through the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues). Overall roadmap for the organization should direct to the [Roadmap project page](https://github.com/JuliaQuantum/Roadmap). The list of current projects under JuliaQuantum can be viewed on the organization's [GitHub summary page](https://github.com/JuliaQuantum). 
 
 To participate a project under JuliaQuantum, please read through and understand the [Basic Agreement](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/3). 
 All questions regarding the organization and proposals of new projects can be posted as an issue on this repo.  
