@@ -410,13 +410,13 @@ blockquote {
   content:'c';
 }
 .soc-rss {
-  background-color: #aa7dc0;
+  background-color: #4da7de;
 }
 .soc-rss:before {
   content:',';
 }
 .soc-twitter {
-  background-color: #4da7de;
+  background-color: #aa7dc0;
 }
 .soc-twitter:before {
   content:'a';
@@ -444,10 +444,10 @@ blockquote {
   background-color: #c93d39;
 }
 .soc-rss:hover {
-  background-color: #945bb0;
+  background-color: #3993ca;
 }
 .soc-twitter:hover {
-  background-color: #3993ca;
+  background-color: #945bb0;
 }
 .soc-email2:hover {
   background-color: #3b972e;
