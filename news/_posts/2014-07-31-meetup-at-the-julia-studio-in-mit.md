@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meetup in the Julia Studio at MIT"
+title: "Meetup at the Julia Studio in MIT"
 authors: Xiaodong Qi
 date: "2014-07-31 16:06"
 ---
