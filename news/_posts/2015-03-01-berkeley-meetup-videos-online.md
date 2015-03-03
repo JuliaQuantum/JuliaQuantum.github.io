@@ -5,59 +5,92 @@ authors: Xiaodong Qi
 date: "2015-03-01 10:56"
 ---
 
-Video records and slides of our meetup at Berkeley on 2015-02-21 are online now! 
+It has been a great pleasure to organize this meetup session at Berkeley on 2015-02-21 along with *Jarrett Revels*.
+Video records and slides of our meetup are online now!
+
+On record, two major topics have been targeted:
+
+1. Optimization, statistics and parallel computing programming techniques
+which are required for quantum tomography, optimal quantum control and quantum metrology among others
+to handle the classical user interface even when quantum computers are implemented in the future.
+
+
+2. Simulating quantum systems on a classical computer environment before quantum computers become mature.
+This involves quantum Monte Carlo simulations, stochastic process simulations, simulating quantum error correction codes
+and other numerical simulation scenarios which strongly appreciate a fast and easy-to-use programming interface.
+
+Speakers in this talk series demonstrated in various aspects showing that
+Julia as a fresh programming language is competent to help ease tasks fell into the two topics listed above.
+
 
 * ***Opening remarks*** by *Xiaodong Qi*:
- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1LrKFaLqwqg" frameborder="0" allowfullscreen></iframe>
-(You can also watch it on [YouKu](http://v.youku.com/v_show/id_XOTAyOTU5MTEy.html), if youtube is blocked in your region).
+(You can also watch it on [this channel](http://v.youku.com/v_show/id_XOTAyOTU5MTEy.html), if *youtube* is blocked in your region).
 
-There are two major topics covered in this talk series:
-
-  1. Programming techniques that may be required for a quantum computer in the future. 
-These may rely on optimization, statistics and parallel computing to handle the classical user interface, where quantum tomography, optimal quantum control and quantum metrology are applied to. 
-
-
-  2. Quantum simulations in a classical computer environment before quantum computers become mature. 
-Quantum Monte Carlo simulations, stochastic process simulation and others would appreciate a fast and robust programming interface. 
-
-Speakers in this talk series will demonstrate in various aspects whether Julia as a fresh programming language is competent to these tasks. 
 
 * ***Talk 1: Predictive Analysis in Julia - An overview of the JuMP package for optimization*** by *Philip Thomas*:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MANoOghiCbQ" frameborder="0" allowfullscreen></iframe>
-(Also available on [YouKu channel](http://v.youku.com/v_show/id_XOTAyODgwMzUy.html).)
+(Also available over [this channel](http://v.youku.com/v_show/id_XOTAyODgwMzUy.html).)
 
+The slides and interactive examples can be cloned through our [*Resources/Meetups/BerkeleyTalk1*](https://github.com/JuliaQuantum/Resources/tree/master/Meetups/BerkeleyTalk1) repository.
+Instruction of cloning a GitHub repository to your local computer can be found in the [*README.md*](https://github.com/JuliaQuantum/Resources) file
+of the [*Resources*](https://github.com/JuliaQuantum/Resources) repository.
+The resources repository can also be downloaded as a [Zip ball](https://github.com/JuliaQuantum/Resources/archive/master.zip).
+
+Feel free to visit Philip's website at [https://www.staffjoy.com/](https://www.staffjoy.com) to find out more about his works.
 
 * ***Talk 2: Convex.jl: Optimization for Everyone*** by *David Deng* and *Karanveer Mohan*:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xi7L4JYyjOA" frameborder="0" allowfullscreen></iframe>
-(Also on [YouKu channel](http://v.youku.com/v_show/id_XOTAzMDAyNDg0.html).)
+(Also on [this channel](http://v.youku.com/v_show/id_XOTAzMDAyNDg0.html).)
+
+The slides and interactive examples can be cloned through our [*Resources/Meetups/BerkeleyTalk2*](https://github.com/JuliaQuantum/Resources/tree/master/Meetups/BerkeleyTalk2) repository.
+The resources repository can also be downloaded as a [Zip ball](https://github.com/JuliaQuantum/Resources/archive/master.zip).
+
+The source code of the *Convex.jl* package can be found on [GitHub](https://github.com/JuliaOpt/Convex.jl).
 
 
-* ***Talk 3: Quantum Statistical Simulations with Julia*** by *Katharine Hyatt*: 
+* ***Talk 3: Quantum Statistical Simulations with Julia*** by [*Katharine Hyatt*](http://web.physics.ucsb.edu/~kshyatt/):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S3tLgDU74XA" frameborder="0" allowfullscreen></iframe>
-(Also on [YouKu Channel](http://v.youku.com/v_show/id_XOTAzMDAyMzgw.html).) 
+(Also on [this channel](http://v.youku.com/v_show/id_XOTAzMDAyMzgw.html).)
+
+The slides can be cloned through our [*Resources/Meetups/BerkeleyTalk3*](https://github.com/JuliaQuantum/Resources/tree/master/Meetups/BerkeleyTalk3) repository.
+The whole *Resources* repository can also be downloaded as a [Zip ball](https://github.com/JuliaQuantum/Resources/archive/master.zip).
 
 
-* ***Influence***: 
-This event along with the poster presentation and a brief lunch meeting in the student-friendly quantum information workshop is a joint effort to help Julia developers reach out more people who are interested in high-performance computing and high-level programming packages, as well as help potential users of Julia to reach out related developers to voice out what they need. 
-I think we have realized those goals. 
-People who did not know Julia before in the quantum community now got a signal; people just heard of Julia now got more confidence to try it in practice. The participants from the quantum community have also effectively gave a feedback to the Julia package developers for the future development to fulfill the demand the Julia community haven't worked on as the quantum science marches on. 
-It is promising to have this type of interaction crossing the classical computation community and the quantum science community to better prepare ourselves for the next evolution of information technology in the near future. 
+* ***Video of the interaction session***: Whoooops, this part was not recorded...
+However, through the interaction between our audience and Julia developers at the meetup,
+feedbacks from the audience of quantum community have been effectively reached to the Julia developers.
+Meanwhile, Julia developers have also demonstrated a lot of exciting features of Julia to a new group of people who may not know Julia before.
+This event along with the poster presentation and a brief lunch meeting in the student-friendly quantum information workshop is a joint effort
+to bring interactions among people from the computer science, mathematics, quantum science, engineering fields
+who are interested in high-performance and high-level programming languages.
 
+After this event, I may not have a chance to participate the future development of JuliaQuantum community any more.
+But I believe, with the spirit of dedication and openness, this open-source community will have a bright and promising future
+through the continuing endeavors from [Jarrett](https://github.com/jrevels), [Alex](https://github.com/acroy),
+[Jiahao](https://github.com/jiahao), [Jutho](https://github.com/Jutho) and among others.
+It has been a great joy to work with them. I am grateful for their supports as a team.
+Gratitudes also go to all of our speakers and audience for their dedication and patience.
+All of the expenses to attend this meetup are out of their own pockets, and many of our audience even did not have time to have dinner just to attend our meetup until very late that night.
+I would also like to sincerely acknowledge some other people who have offered a hand to help make this event happen and ease related affairs for the JuliaQuantum organization.
+They are, but not limited to,
 
-Please skip the detailed report to the organization below, if you are not considering organizing future events like this meetup.
-================================================================================================================================
+* Tony Kelman and Kyle Barbary from UC Berkeley,
 
-* *Attendance figures*: there were 24 participants during the event, which basically reflected the number of registrated attendance. 
-The ratio of experienced Julia developers to new users is roughly 2:3. 
-Most of the participants are students from graduate schools with a few undergrads and industrial software engineers. 
-    Among the new faces, about a half of them were from the same research institute attending the SQuInT workshop outside of the Bay area, have heard or even tried Julia, and participated the brief lunch meeting with Jarrett during the SQuInT workshop before attending the meetup. The rest of the new faces basically have no experience on Julia, and some of them never heard of Julia before. 
-    Most of the Julia developers were from the Bay area and were working on computer science, mathematics, data science and mechanics. 
-    Beyond the attendance, a dozen of people from SQuInT workshop expressed interest in Julia during the poster session to our presenter, Jarrett. Most of this group of people have heard of Julia before yet had not tried Julia. However, most of them did not attend the meetup session on Feb 21. 
+* Stefan Karpinski and Jiahao Chen from MIT,
 
-* *Organization process and lessons having been learned*: 
-    The SQuInT workshop activities have been framed since Decemeber last year when Jarrett agreed to present the *QuDirac.jl* project in the workshop which he had done in the past and became an important fundation for the org to set up the *QuBase.jl* project. We got extension from the SQuInT organizors for submitting the poster abstract. I tried to call for helpers and to coordinate the development focus over the JuliaQuantum organization to help Jarrett work out a poster with rich content and interesting examples that our audience care about, but it is a failure in the sense that no one else beyond me and Jarreet followed our suggested schedule and even no effective feedback to explain why. Later on, it basically becomes Jarrett's personal struggle to prepare the presentation until the last few days before the poster presentation Jarrett reached the steering team of JuliaQuantum with his poster titled as *JuiaQuantum* and got some feedbacks on his poster. I think this is mainly due to the way I coordinate this event which has a strong flavor of personality inside. Behind it, there is a culture of individualism challenging my naive knowledge of collective collaborations. I think a In the mean time, it may also because everyone is busy especially passing the Christmas holidays and the beginning of the year. It may worth our organization to think about the strategy and tactics of running the organization as an ecosystem integrated in a big picture. Fortunately, Jarrett's poster got a lot of audience in the end. 
-    The preparation of the meetup event on Feb 21 was started roughly a little more than a month before the due day.  
+* Mykel Kochenderfer and Jack Poulson from Sanford University,
+
+* Hunter Owens, Matthias Bussonnier, Shashi Gowda, Jay Weisskopf, pao, Jameson Nash, Isaiah, John White, Tim Holy, one-more-minute, Matt Bauman, Chris Peel, peter1000 as Julia developers on GitHub,
+
+* Peter Golpeo from the DoubleTree hotel,
+
+* Berilyn Thomas and Ivan from UNM,
+
+* and many others got connected.
+
+For supports and donations, please send a line to the JuliaQuantum team at quantumjulia AT gmail DOT com.
