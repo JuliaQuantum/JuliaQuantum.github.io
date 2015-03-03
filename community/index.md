@@ -50,7 +50,7 @@ They help integrate JuliaQuantum projects into a broader group.
 ### JuliaQuantum Steering Team
 As the title illustrated, they are working on ensure JuliaQuantum moving on a right track.
 
-Current members (alphabetical order): [acroy](https://github.com/acroy), [i2000s (Xiaodong Qi)](https://github.com/i2000s),
+Current members (alphabetical order): [acroy](https://github.com/acroy),
 [jiahao](https://github.com/jiahao), [jrevels](https://github.com/jrevels) and [Jutho](https://github.com/Jutho).
 
 Other members of JuliaQuantum may be found on [our GitHub page](https://github.com/JuliaQuantum),
