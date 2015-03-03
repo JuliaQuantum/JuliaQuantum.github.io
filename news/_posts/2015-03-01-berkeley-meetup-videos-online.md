@@ -25,40 +25,40 @@ Julia as a fresh programming language is competent to help ease tasks fell into 
 
 * ***Opening remarks*** by *Xiaodong Qi*:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1LrKFaLqwqg" frameborder="0" allowfullscreen></iframe>
-(You can also watch it on [this channel](http://v.youku.com/v_show/id_XOTAyOTU5MTEy.html), if *youtube* is blocked in your region).
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1LrKFaLqwqg" frameborder="0" allowfullscreen></iframe>
+
+    (You can also watch it on [this channel](http://v.youku.com/v_show/id_XOTAyOTU5MTEy.html), if *youtube* is blocked in your region).
 
 
 * ***Talk 1: Predictive Analysis in Julia - An overview of the JuMP package for optimization*** by *Philip Thomas*:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MANoOghiCbQ" frameborder="0" allowfullscreen></iframe>
-(Also available over [this channel](http://v.youku.com/v_show/id_XOTAyODgwMzUy.html).)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MANoOghiCbQ" frameborder="0" allowfullscreen></iframe>
 
-The slides and interactive examples can be cloned through our [*Resources/Meetups/BerkeleyTalk1*](https://github.com/JuliaQuantum/Resources/tree/master/Meetups/BerkeleyTalk1) repository.
-Instruction of cloning a GitHub repository to your local computer can be found in the [*README.md*](https://github.com/JuliaQuantum/Resources) file
-of the [*Resources*](https://github.com/JuliaQuantum/Resources) repository.
-The resources repository can also be downloaded as a [Zip ball](https://github.com/JuliaQuantum/Resources/archive/master.zip).
+    (Also available over [this channel](http://v.youku.com/v_show/id_XOTAyODgwMzUy.html).)
 
-Feel free to visit Philip's website at [https://www.staffjoy.com/](https://www.staffjoy.com) to find out more about his works.
+    The slides and interactive examples can be cloned through our [*Resources/Meetups/BerkeleyTalk1*](https://github.com/JuliaQuantum/Resources/tree/master/Meetups/BerkeleyTalk1) repository. Instruction of cloning a GitHub repository to your local computer can be found in the [*README.md*](https://github.com/JuliaQuantum/Resources) file
+of the [*Resources*](https://github.com/JuliaQuantum/Resources) repository. The resources repository can also be downloaded as a [Zip ball](https://github.com/JuliaQuantum/Resources/archive/master.zip).
+
+    Feel free to visit Philip's website at [https://www.staffjoy.com/](https://www.staffjoy.com) to find out more about his works.
 
 * ***Talk 2: Convex.jl: Optimization for Everyone*** by *David Deng* and *Karanveer Mohan*:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xi7L4JYyjOA" frameborder="0" allowfullscreen></iframe>
-(Also on [this channel](http://v.youku.com/v_show/id_XOTAzMDAyNDg0.html).)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xi7L4JYyjOA" frameborder="0" allowfullscreen></iframe>
 
-The slides and interactive examples can be cloned through our [*Resources/Meetups/BerkeleyTalk2*](https://github.com/JuliaQuantum/Resources/tree/master/Meetups/BerkeleyTalk2) repository.
-The resources repository can also be downloaded as a [Zip ball](https://github.com/JuliaQuantum/Resources/archive/master.zip).
+    (Also on [this channel](http://v.youku.com/v_show/id_XOTAzMDAyNDg0.html).)
 
-The source code of the *Convex.jl* package can be found on [GitHub](https://github.com/JuliaOpt/Convex.jl).
+    The slides and interactive examples can be cloned through our [*Resources/Meetups/BerkeleyTalk2*](https://github.com/JuliaQuantum/Resources/tree/master/Meetups/BerkeleyTalk2) repository. The resources repository can also be downloaded as a [Zip ball](https://github.com/JuliaQuantum/Resources/archive/master.zip).
+
+    The source code of the *Convex.jl* package can be found on [GitHub](https://github.com/JuliaOpt/Convex.jl).
 
 
 * ***Talk 3: Quantum Statistical Simulations with Julia*** by [*Katharine Hyatt*](http://web.physics.ucsb.edu/~kshyatt/):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3tLgDU74XA" frameborder="0" allowfullscreen></iframe>
-(Also on [this channel](http://v.youku.com/v_show/id_XOTAzMDAyMzgw.html).)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/S3tLgDU74XA" frameborder="0" allowfullscreen></iframe>
 
-The slides can be cloned through our [*Resources/Meetups/BerkeleyTalk3*](https://github.com/JuliaQuantum/Resources/tree/master/Meetups/BerkeleyTalk3) repository.
-The whole *Resources* repository can also be downloaded as a [Zip ball](https://github.com/JuliaQuantum/Resources/archive/master.zip).
+    (Also on [this channel](http://v.youku.com/v_show/id_XOTAzMDAyMzgw.html).)
+
+    The slides can be cloned through our [*Resources/Meetups/BerkeleyTalk3*](https://github.com/JuliaQuantum/Resources/tree/master/Meetups/BerkeleyTalk3) repository. The whole *Resources* repository can also be downloaded as a [Zip ball](https://github.com/JuliaQuantum/Resources/archive/master.zip).
 
 
 * ***Video of the interaction session***: Whoooops, this part was not recorded...
