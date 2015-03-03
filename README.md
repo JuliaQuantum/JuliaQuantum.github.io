@@ -1,13 +1,13 @@
 <a name="logo"/>
 <div align="center">
-<a href="http://http://juliaquantum.github.io/" target="_blank">
+<a href="http://juliaquantum.github.io/" target="_blank">
 <img src="images/logo_icon.png" alt="JuliaQuantum Logo" height="60"></img>
 </a>
 </div>
 
 <a name="Textlogo"/>
 <div align="center">
-<a href="http://http://juliaquantum.github.io/" target="_blank">
+<a href="http://juliaquantum.github.io/" target="_blank">
 <img src="images/logo_hires.png" alt="JuliaQuantum Logo in Text" height="100"></img>
 </a>
 </div>
@@ -35,4 +35,4 @@ You only have to do this once.
 Now you can run `$ bundle exec jekyll serve` in the root of this repository to serve it,
 usually you can preview the website on `http://localhost:4000`.
 Drafts should be put into the `drafts/_posts` folder and can be previewed on a local computer.
-All posts should be named using the correct date of posting and a title joined by hyphens. 
+All posts should be named using the correct date of posting and a title joined by hyphens.
