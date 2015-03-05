@@ -94,4 +94,6 @@ Perez as Julia developers on GitHub,
 
 * and many others got connected.
 
-For supports and donations, please send a line to the JuliaQuantum team at quantumjulia AT gmail DOT com.
+For financial support or donations, please notice that Julia creators maintain a Julia NumFocus account at
+[http://numfocus.org/projects/](http://numfocus.org/projects/). As a non-for-profit Julia umbrella organization, we will request budget support from the head node in the future.
+If you would like to donate to support our future events, please donate through the link above. Thank you for your support!
