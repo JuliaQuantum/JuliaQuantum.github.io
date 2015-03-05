@@ -79,13 +79,14 @@ All of the expenses to attend this meetup are out of their own pockets, and many
 I would also like to sincerely acknowledge some other people who have offered a hand to help make this event happen and ease related affairs for the JuliaQuantum organization.
 They are, but not limited to,
 
-* Tony Kelman and Kyle Barbary from UC Berkeley,
+* Tony Kelman, Kyle Barbary and Matthias Bussonnier from UC Berkeley,
 
-* Stefan Karpinski and Jiahao Chen from MIT,
+* Stefan Karpinski and Viral Shah from MIT,
 
 * Mykel Kochenderfer and Jack Poulson from Sanford University,
 
-* Hunter Owens, Matthias Bussonnier, Shashi Gowda, Jay Weisskopf, pao, Jameson Nash, Isaiah, John White, Tim Holy, one-more-minute, Matt Bauman, Chris Peel, peter1000 as Julia developers on GitHub,
+* Hunter Owens, Shashi Gowda, Jay Weisskopf, Simon Byrne, Patrick O'Leary, Jan Hasse, Jameson Nash, Isaiah Norton, John White, Tim Holy, Milan Bouchet-Valat, Elliot Saba, Mike Innes, Matt Bauman, Chris Peel, peter1000, Fernando
+Perez as Julia developers on GitHub,
 
 * Peter Golpeo from the DoubleTree hotel,
 
