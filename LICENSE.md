@@ -1,19 +1,26 @@
-Software License Agreement For Materials in This Repository 
+Except where otherwise specified (e.g. in the footer of specific pages or head directories),
+the content of the [juliaQuantum.github.io](http://juliaquantum.github.io) website is licensed under the MIT License.
 
-===========================================================
+> Copyright (c) 2014-2015: Xiaodong Qi and other contributors:
+>
+> https://github.com/JuliaQuantum/juliaquantum.github.io/contributors
+>
+> Permission is hereby granted, free of charge, to any person obtaining
+> a copy of this software and associated documentation files (the
+> "Software"), to deal in the Software without restriction, including
+> without limitation the rights to use, copy, modify, merge, publish,
+> distribute, sublicense, and/or sell copies of the Software, and to
+> permit persons to whom the Software is furnished to do so, subject to
+> the following conditions:
+>
+> The above copyright notice and this permission notice shall be
+> included in all copies or substantial portions of the Software.
+>
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+> EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+> MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+> NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+> LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+> OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+> WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Copyright 2015 JuliaQuantum. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted for building and testing websites
-and related projects belonging to JuliaQuantum organization only. 
-Using the source code presented in this repository and the derived binary 
-forms, images, logos and trademarks for any other purposes should request
-the permission from the corresponding authors and the owners of the
-JuliaQuantum organization. 
-
-The framework, css style codes and logo images are modified based upon 
-the work provided by [JuliaLang.org](http://julialang.org). 
-Redistribution, modification and use of those resources beyond the 
-purpose of servering projects under JuliaQuantum also need the permission
-from the original authors and copyright holders of JuliaLang.org. 
