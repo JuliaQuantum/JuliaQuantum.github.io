@@ -11,13 +11,13 @@ layout: null
  <id>http://juliaquantum.github.io/news</id>
  <author>
    <name>JuliaQuantum.github.io Developers</name>
-   <email>juliaquantum-dev@googlegroups.com</email>
+   <email>{{ site.manageremail }}</email>
  </author>
 
  {% for post in site.categories.blog %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://juliaquantum.github.io{{ post.url }}"/>
+   <link href="http://juliaquantum.github.io/news/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://juliaquantum.github.io{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
