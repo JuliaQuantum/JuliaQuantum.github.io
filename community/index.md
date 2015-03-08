@@ -18,10 +18,9 @@ any non-trivial role for JuliaQuantum, please [email us](mailto:{{ site.managere
 Currently, we have the following supporting groups.
 
 ### Academic consulting committee
-This committee responds to JuliaQuantum members for scientific insights and advice
+This committee responds to JuliaQuantum members for scientific insights and give advice
 to improve the quality and value of the Julia libraries under our organization.
-Please respect that committee members are all from academic institutes
-and mostly could only dedicate limited time to our recognized members.
+
 
 Current member on board:
 [Dr. Kevin Cahill](http://physics.unm.edu/pandaweb/people/person.php?personID=5) from University of New Mexico,

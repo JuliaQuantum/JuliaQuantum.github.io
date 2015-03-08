@@ -15,9 +15,11 @@
 
 ##
 
-This is the GitHub repository for the JuliaQuantum organization's main website, [juliaquantum.github.io](http://juliaquantum.github.io/). On the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues), announcements and discussions regarding the JuliaQuantum organization are also actively posted. The overall roadmap for the organization can be found in the [Roadmap project page](https://github.com/JuliaQuantum/Roadmap). The list of current projects under JuliaQuantum can be viewed on the organization's [GitHub summary page](https://github.com/JuliaQuantum).
+This is the GitHub repository for the JuliaQuantum organization's main website, [juliaquantum.github.io](http://juliaquantum.github.io/). On the [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues), announcements and discussions regarding the JuliaQuantum organization and associated projects are also actively posted. Please [watch](https://help.github.com/articles/watching-repositories/) or [star](https://github.com/blog/1204-notifications-stars) this repository to receive prompt notifications of the organizational activities. 
 
-To contribute to an existing project under JuliaQuantum, just go to the [corresponding repository](https://github.com/JuliaQuantum) and start forking, committing or posting issues. The [Basic Agreement](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/3) describes some common knowledge for contributing.
+Related: The overall roadmap for the organization can be found in the [***Roadmap*** project page](https://github.com/JuliaQuantum/Roadmap). The list of current projects under JuliaQuantum can be viewed on the [project summary page](http://juliaquantum.github.io/projects/). There is also a ***Resources*** repository storing shared resources related to our projects and organization. Members of JuliaQuantum org have write access to this repository, as well as the ***Roadmap*** and ***Resources*** repositories. 
+
+To become a member of JuliaQuantum, please write to *quantumjulia AT gmail.com*. You don't need to be a member of JuliaQuantum in order to contribute to our projects. The [Basic Agreement](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/3) describes some common knowledge for memberships and contributing to JuliaQuantum.
 
 
 ## How to Edit the Website
