@@ -14,10 +14,10 @@ layout: null
    <email>{{ site.manageremail }}</email>
  </author>
 
- {% for post in site.categories.blog %}
+ {% for post in site.categories.news %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://juliaquantum.github.io/news/{{ post.url }}"/>
+   <link href="http://juliaquantum.github.io/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://juliaquantum.github.io{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
