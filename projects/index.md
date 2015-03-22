@@ -8,28 +8,29 @@ As a fairly new organization for the fresh programming language--Julia,
 we hope our projects can span into a good base for the broad spectrum of quantum science and technology.
 If you have an idea to start a new project towards our goal,
 please file an [issue](https://github.com/JuliaQuantum/Roadmap/issues).
-Contributions to existing projects are also highly appreciated.
-Our current major focus is the [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) project as a fundamental project for branching packages. As the QuBase.jl is closing to release the first version, we are looking for proposals and protypes of advanced projects for the next. Please check the [overall roadmaps](https://github.com/JuliaQuantum/Roadmap) and issues on existing projects to find out where you can make a contribution. 
-Please [watch](https://help.github.com/articles/watching-repositories/) or [star](https://github.com/blog/1204-notifications-stars) our projects to receive notifications of updates. Thank you for your interest! 
+Contributions to existing projects are also highly appreciated--be sure to read this [Basic Agreement](/agreement.html) before participating JuliaQuantum projects.
+Our current major focus is the [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) project as a fundamental project for branching packages. As the QuBase.jl is closing to release the first version, we are looking for proposals and prototypes of advanced projects for the next development focus. Please check the [overall roadmaps](https://github.com/JuliaQuantum/Roadmap) and issues on existing projects to find out where you can make a contribution.
+Please [watch](https://help.github.com/articles/watching-repositories/) or [star](https://github.com/blog/1204-notifications-stars) our projects to receive notifications of updates. Thank you for your interest!
 
 ### [JuliaQuantum.github.io](https://github.com/JuliaQuantum/JuliaQuantum.github.io)
 
 This is the GitHub repository for the JuliaQuantum organization's main website,
 [juliaquantum.github.io](http://juliaquantum.github.io).
 Organizational announcements, Q&A and general discussions regarding the JuliaQuantum organization and overall projects
-can also be posted on its [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues). 
+can also be posted on its [issue page](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues).
 Please [watch](https://help.github.com/articles/watching-repositories/) or [star](https://github.com/blog/1204-notifications-stars) this repository to receive prompt notifications of the organizational activities.
 
 
 ### [Roadmap](https://github.com/JuliaQuantum/Roadmap)
 
-This repository hosts discussions and documentations of overall and individual projects' roadmaps
+This repository hosts discussions and documentations of long-term and short-term roadmaps for projects
 under JuliaQuantum.
 Proposals of new projects under the organization can be posted on its [issue page](https://github.com/JuliaQuantum/Roadmap/issues).
+Please [watch](https://help.github.com/articles/watching-repositories/) or [star](https://github.com/blog/1204-notifications-stars) this repository to receive prompt notifications if interested.
 
 ### [Resources](https://github.com/JuliaQuantum/Resources)
 
-This repo stores some public resources from JuliaQuantum including meetup slides, educational demos and so on. 
+This repo stores some public resources from JuliaQuantum including meetup slides, educational demos and so on.
 
 
 ### [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl)
