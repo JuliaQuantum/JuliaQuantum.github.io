@@ -6,11 +6,13 @@ title:  Projects - Julia Libraries for Quantum Science and Technology
 Below is an overview of the open-source projects that have been carried on under the JuliaQuantum organization.
 As a fairly new organization for the fresh programming language--Julia,
 we hope our projects can span into a good base for the broad spectrum of quantum science and technology.
-If you have an idea to start a new project towards our goal,
-please file an [issue](https://github.com/JuliaQuantum/Roadmap/issues).
-Contributions to existing projects are also highly appreciated--be sure to read this [Basic Agreement](/agreement.html) before participating JuliaQuantum projects.
-Our current major focus is the [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) project as a fundamental project for branching packages. As the QuBase.jl is closing to release the first version, we are looking for proposals and prototypes of advanced projects for the next development focus. Please check the [overall roadmaps](https://github.com/JuliaQuantum/Roadmap) and issues on existing projects to find out where you can make a contribution.
-Please [watch](https://help.github.com/articles/watching-repositories/) or [star](https://github.com/blog/1204-notifications-stars) our projects to receive notifications of updates. Thank you for your interest!
+If you have an idea on starting a new project, find a bug or have something to say to our developers,
+please [file an issue](https://guides.github.com/features/issues/) following [the Julia community standards](http://julialang.org/community/standards/) on the listed repositories below.
+Our current major focus is the [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) project as a fundamental project for building other packages. As the QuBase.jl is closing to release the first version, we are looking for proposals and prototypes of advanced projects for the next development focus. Please check the [overall roadmaps](https://github.com/JuliaQuantum/Roadmap) and issues on existing projects to find out where you can make a contribution.
+You can [watch](https://help.github.com/articles/watching-repositories/) or [star](https://github.com/blog/1204-notifications-stars) our projects to receive notifications of updates.
+Contact the steering team through the email linked on the bottom of this page if you want to be a member of JuliaQuantum--the [Basic Agreement](https://github.com/JuliaQuantum/JuliaQuantum.github.io/issues/3) is under community discussion.
+[Fork](https://help.github.com/articles/fork-a-repo/) and edit our projects and start [contributing source codes](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md)!
+Thank you for your interest!
 
 ### [JuliaQuantum.github.io](https://github.com/JuliaQuantum/JuliaQuantum.github.io)
 
