@@ -5,10 +5,7 @@ which has been licensed under the MIT License.
 Except where otherwise specified (e.g. in the footer of specific pages or head directories of the source file),
 the content of the [JuliaQuantum.github.io](http://juliaquantum.github.io) website is licensed under the MIT License.
 
-> Copyright (c) 2014-2015: Xiaodong Qi, Stefan Karpinski, Viral B. Shah,  
-> Jan Niklas Hasse, Hunter Owens, Jiahao Chen, Mike Nolta, Simon Byrne, 
-> Matthias Bussonnier, Jeff Bezanson, Milan Bouchet-Valat, Jay Weisskopf,
-> Shashi Gowda, Jameson Nash and other contributors:
+> Copyright (c) 2014-2015: Xiaodong Qi and other contributors:
 >
 > https://github.com/JuliaQuantum/juliaquantum.github.io/contributors
 >
