@@ -5,7 +5,7 @@ title:  Julia Libraries for Quantum Science and Technology
 
 <header>
 <h1 align="center">
-  <a href="http://julialang.org" target="_blank">julia</a> libraries for Quantum Science and Technology
+  <a href="http://julialang.org" target="_blank">Julia</a> libraries for Quantum Science and Technology
 </h1>
 </header>
 
