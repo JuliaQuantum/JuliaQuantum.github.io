@@ -246,7 +246,7 @@ blockquote {
 /* pages listing blog posts */
 
 #blogindex {
-  max-width: 30em;
+  max-width: 38em;
   margin: 2em auto 2em auto;
 }
   #blogindex ul {
