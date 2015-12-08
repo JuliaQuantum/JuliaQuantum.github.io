@@ -52,7 +52,8 @@ as a joint effort for building a basic quantum representation library for high-l
 ### [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl)
 
 A library for solving dynamical equations in quantum mechanics.
-It aims to provide a unified framework for solvers to solve various dynamical equations like
+It aims to provide a unified framework to solve various dynamical equations like
 Schrodinger Equation, Liouville von Neumann Equation, Lindblad Master Equation. Various solvers
 have been integrated from packages like [ODE.jl](https://github.com/JuliaLang/ODE.jl), [ExpmV.jl](https://github.com/marcusps/ExpmV.jl),
-[Expokit.jl](https://github.com/acroy/Expokit.jl) using base features from [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl).
+[Expokit.jl](https://github.com/acroy/Expokit.jl). Currently it depends on and makes use of features from
+[QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl).
