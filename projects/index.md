@@ -48,3 +48,11 @@ started by [jrevels](https://github.com/jrevels).
 A library for performing quantum mechanics using Dirac notation in Julia.
 Some of its functionalities have been merged into the [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) project
 as a joint effort for building a basic quantum representation library for high-level JuliaQuantum projects.
+
+### [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl)
+
+A library for solving dynamical equations in quantum mechanics.
+It aims to provide a unified framework for solvers to solve various dynamical equations like
+Schrodinger Equation, Liouville von Neumann Equation, Lindblad Master Equation. Various solvers
+have been integrated from packages like [ODE.jl](https://github.com/JuliaLang/ODE.jl), [ExpmV.jl](https://github.com/marcusps/ExpmV.jl),
+[Expokit.jl](https://github.com/acroy/Expokit.jl) using base features from [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl).
