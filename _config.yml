@@ -1,13 +1,7 @@
 permalink: /:categories/:year/:month/:title
 
-highlighter: pygments
-markdown: rdiscount
-rdiscount:
-  toc_token: "[TOC]"
-  extensions:
-    - autolink
-    - footnotes
-    - smart
-    - generate_toc
+highlighter: rouge
+gems:
+  - jekyll-redirect-from
 
 manageremail: quantumjulia@gmail.com
