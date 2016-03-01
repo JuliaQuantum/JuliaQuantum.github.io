@@ -33,8 +33,8 @@ Looking for more nominations and participants to serve in the committee.
 
 
 ### Supporting Groups
-* [CQuIC on GitHub](http://cquic-github.github.io/):
-an open-source project team who are working on open-source packages including the well-known [qcircuit](https://github.com/CQuIC-GitHub/qcircuit)
+* [CQuIC on GitHub](http://cquic.github.io/):
+an open-source project team who are working on open-source packages including the well-known [qcircuit](https://github.com/CQuIC/qcircuit)
 LaTeX package for drawing quantum circuits in LaTeX with ease.
 Some of the initial JuliaQuantum members come from them.
 They also help bring JuliaQuantum to the [17th Annual SQuINT workshop](http://physics.unm.edu/SQuInT/).
