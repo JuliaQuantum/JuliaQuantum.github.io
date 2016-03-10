@@ -9,6 +9,13 @@ title:  Julia Libraries for Quantum Science and Technology
 </h1>
 </header>
 
+<script>
+  ((window.gitter = {}).chat = {}).options = {
+    room: 'JuliaQuantum/JuliaQuantum.github.io'
+  };
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+
 <div class="wrapper">
       <div class="wrapper-left2of3" vertical-align="middle">
 
