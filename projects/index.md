@@ -57,3 +57,12 @@ Schrodinger Equation, Liouville von Neumann Equation, Lindblad Master Equation. 
 have been integrated from packages like [ODE.jl](https://github.com/JuliaLang/ODE.jl), [ExpmV.jl](https://github.com/marcusps/ExpmV.jl),
 [Expokit.jl](https://github.com/acroy/Expokit.jl). Currently it depends on and makes use of features from
 [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl).
+
+
+### [QuCmp.jl](https://github.com/JuliaQuantum/QuCmp.jl)
+
+A framework and toolkit for simulating quantum information processing.
+
+This framework is inspired by:
+[Quantum++](https://github.com/vsoftco/qpp),
+[libquantum](http://www.libquantum.de/), and other related libraries.
