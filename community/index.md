@@ -39,7 +39,7 @@ LaTeX package for drawing quantum circuits in LaTeX with ease.
 Some of the initial JuliaQuantum members come from them.
 They also help bring JuliaQuantum to the [17th Annual SQuINT workshop](http://physics.unm.edu/SQuInT/).
 
-* [ICIQ community](http://iciq.github.io/): an open community based on the [Information, Computation, Intelligence and Quantum Google+ community](Information, Computation, Intelligence and Quantum),
+* [ICIQ community](http://iciq.github.io/): an open community based on the [Information, Computation, Intelligence and Quantum Google+ community](//plus.google.com/communities/112872767737673370045),
 who provides free online talks, news reports, study materials and community open source projects
 to both classical and quantum information communities for accelerating technical advances.
 They help integrate JuliaQuantum projects into a broader group.
