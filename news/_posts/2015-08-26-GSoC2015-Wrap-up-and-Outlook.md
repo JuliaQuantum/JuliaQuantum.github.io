@@ -8,7 +8,7 @@ date: "2015-08-26 19:27"
 Hello everyone,
 
 During the past few weeks we have worked on improving the Documentation, and have focused on the parallelization of Quantum Monte Carlo Wave Function Method
-(please refer to the previous [blog](http://juliaquantum.github.io/news/2015/08/GSoC2015-Quantum-MCWF-method-and-QuDynamics/) for the implementation of Quantum MCWF in QuDynamics). The documentation has completely been revamped, there is a structure
+(please refer to the previous [blog](http://juliaquantum.github.io/news/2015/08/GSoC2015-Quantum-MCWF-method-and-QuDynamics) for the implementation of Quantum MCWF in QuDynamics). The documentation has completely been revamped, there is a structure
 to each of the method/type implemented. The general outline is to include the following for every method/type :
 
 ```julia
