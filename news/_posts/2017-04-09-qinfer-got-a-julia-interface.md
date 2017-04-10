@@ -14,7 +14,7 @@ You can call QInfer functions from Julia following the steps illustrated in the 
 
 ![QInfer and JuliaQuantum meetup--left to right are Xiaodong Qi, Christopher Granade, Jonathan Gross and CQuIC fellow Ninnat Dangniam.](/images/Meetups/qinfermeetup.jpg)
 
-On Feb 24th, 2017, QInfer lead developer Christopher Granade and contributor Jonathan Gross met with JuliaQuantum supporter Xiaodong Qi during the [SQuInT](http://physics.unm.edu/SQuInT/2017/index.php) workshop in Baton Rouge, Louisiana, USA. They discussed current issues and future directions of the package and what JuliaQuantum can do to improve user experience.
+On Feb 24th, 2017, QInfer lead developer [Christopher Granade](http://www.cgranade.com/), QInfer contributor [Jonathan Gross](https://www.unm.edu/~jagross/) and quantum-information theorist [Ninnat (Tom) Dangniam](http://ninnat.github.io) met with JuliaQuantum supporter [Xiaodong Qi](https://qxd.people.unm.edu) during the [SQuInT](http://physics.unm.edu/SQuInT/2017/index.php) workshop in Baton Rouge, Louisiana, USA. They discussed current issues and future directions of the package and what JuliaQuantum can do to improve user experience.
 Because Julia has been developed as a fast technical-computing language and many Julia packages have been developed for quantum simulation, people might want to call Julia scripts from Python.
 Chris raised some concerns base on his past experience attempting to call Julia from Python,
 specifically that the package enabling one to call Julia from Python, [PyJulia](https://github.com/JuliaPy/pyjulia), has problems calling certain Julia commands.
