@@ -1,7 +1,7 @@
 permalink: /:categories/:year/:month/:title
 
 highlighter: rouge
-gems:
+plugins:
   - jekyll-redirect-from
 
 manageremail: quantumjulia@gmail.com
