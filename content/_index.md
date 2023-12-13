@@ -13,11 +13,11 @@ lead = """<b>JuliaQuantum</b> is an open-source community for quantum software i
     Julia Language
 </a>.
 """
-url = "/docs/getting-started/introduction/"
+url = "/packages/getting-started/introduction/"
 url_button = "Checkout the Ecosystem!"
-repo_version = "GitHub v0.1.0"
-repo_license = "Open-source MIT License."
-repo_url = "https://github.com/aaranxu/adidoks"
+# repo_version = "GitHub v0.1.0"
+# repo_license = "Open-source MIT License."
+# repo_url = "https://github.com/aaranxu/adidoks"
 
 # Menu items
 [[extra.menu.main]]
