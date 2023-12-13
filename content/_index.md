@@ -1,5 +1,5 @@
 +++
-title = "Julia Quantum"
+title = "JuliaQuantum"
 
 
 # The homepage contents

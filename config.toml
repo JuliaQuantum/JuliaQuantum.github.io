@@ -33,7 +33,7 @@ build_search_index = true
 # Whether to include the title of the page/section in the index
 include_title = true
 # Whether to include the description of the page/section in the index
-include_description = false
+include_description = true
 # Whether to include the rendered content of the page/section in the index
 include_content = true
 
