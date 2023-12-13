@@ -7,7 +7,7 @@ draft = false
 template = "blog/page.html"
 
 [taxonomies]
-authors = ["Xiuzhe (Roger) Luo"]
+authors = ["Roger Luo"]
 
 [extra]
 lead = "This is the source code of the traditional <b>Hello World</b> program."

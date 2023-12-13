@@ -32,6 +32,12 @@ section = "events"
 url = "/events/"
 weight = 20
 
+[[extra.menu.main]]
+name = "People"
+section = "people"
+url = "/authors/"
+weight = 20
+
 [[extra.list]]
 title = "Security aware"
 content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
