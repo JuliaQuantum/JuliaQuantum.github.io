@@ -13,3 +13,7 @@ lead = 'A framework for quantum algorithm design and quantum software developmen
 toc = true
 top = false
 +++
+
+## Introduction
+
+Yao is a framework for quantum algorithm design and quantum software development. It aims to provide a flexible, powerful and efficient infrastructure for studying quantum algorithms, as well as developing quantum software in general.
