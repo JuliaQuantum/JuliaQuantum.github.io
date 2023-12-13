@@ -23,7 +23,7 @@ url_button = "Checkout the Ecosystem!"
 [[extra.menu.main]]
 name = "Packages"
 section = "packages"
-url = "/packages/"
+url = "/packages/getting-started/introduction/"
 weight = 10
 
 [[extra.menu.main]]
