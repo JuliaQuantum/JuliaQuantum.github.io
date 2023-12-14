@@ -104,9 +104,9 @@ site_links_search_box = false
 
 # Menu items
 [[extra.menu.main]]
-name = "Docs"
-section = "docs"
-url = "/docs/getting-started/introduction/"
+name = "Packages"
+section = "packages"
+url = "/packages/getting-started/introduction/"
 weight = 10
 
 [[extra.menu.main]]
@@ -116,9 +116,9 @@ url = "/events/"
 weight = 20
 
 [[extra.menu.main]]
-name = "Blog"
-section = "blog"
-url = "/blog/"
+name = "People"
+section = "people"
+url = "/people/"
 weight = 20
 
 # [[extra.menu.social]]

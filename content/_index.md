@@ -35,7 +35,7 @@ weight = 20
 [[extra.menu.main]]
 name = "People"
 section = "people"
-url = "/authors/"
+url = "/people/"
 weight = 20
 
 [[extra.list]]
