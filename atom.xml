@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>JuliaQuantum</title>
+    <subtitle>JuliaQuantum - The Quantum Open-Source Community in Julia Programming Language</subtitle>
+    <link href="https://JuliaQuantum.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://JuliaQuantum.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-05-01T19:30:00+00:00</updated>
+    <id>https://JuliaQuantum.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>FAQ</title>
+        <published>2021-05-01T19:30:00+00:00</published>
+        <updated>2021-05-01T19:30:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/docs/help/faq/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/docs/help/faq/</id>
+        
+        <content type="html">&lt;h2 id=&quot;what-is-the-adidoks&quot;&gt;What is the AdiDoks?&lt;&#x2F;h2&gt;
+&lt;p&gt;AdiDoks is a Zola theme for Documentation&#x27;s sites, ported by the Hugo Theme
+&lt;a href=&quot;https:&#x2F;&#x2F;getdoks.org&quot;&gt;Doks&lt;&#x2F;a&gt;, which is a pretty nice theme. Thanks a lot to 
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;h-enk&quot;&gt;&lt;em&gt;h-enk&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;, the creator of the &lt;a href=&quot;https:&#x2F;&#x2F;getdoks.org&quot;&gt;Doks&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;keyboard-shortcuts-for-search&quot;&gt;Keyboard shortcuts for search?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;focus: &lt;code&gt;&#x2F;&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;select: &lt;code&gt;↓&lt;&#x2F;code&gt; and &lt;code&gt;↑&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;open: &lt;code&gt;Enter&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;close: &lt;code&gt;Esc&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;other-documentation&quot;&gt;Other documentation?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.netlify.com&#x2F;&quot;&gt;Netlify&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;getting-started&#x2F;overview&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;contact-the-creator&quot;&gt;Contact the creator?&lt;&#x2F;h2&gt;
+&lt;p&gt;Send &lt;em&gt;Aaran Xu&lt;&#x2F;em&gt; an E-mail:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:aaranxu@outlook.com&quot;&gt;aaranxu@outlook.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Code of Conduct</title>
+        <published>2021-05-01T18:20:00+00:00</published>
+        <updated>2021-05-01T18:20:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/docs/contributing/code-of-conduct/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/docs/contributing/code-of-conduct/</id>
+        
+        <content type="html">&lt;h2 id=&quot;our-pledge&quot;&gt;Our Pledge&lt;&#x2F;h2&gt;
+&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, caste, color, religion, or sexual identity
+and orientation.&lt;&#x2F;p&gt;
+&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-standards&quot;&gt;Our Standards&lt;&#x2F;h2&gt;
+&lt;p&gt;Examples of behavior that contributes to a positive environment for our
+community include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrating empathy and kindness toward other people&lt;&#x2F;li&gt;
+&lt;li&gt;Being respectful of differing opinions, viewpoints, and experiences&lt;&#x2F;li&gt;
+&lt;li&gt;Giving and gracefully accepting constructive feedback&lt;&#x2F;li&gt;
+&lt;li&gt;Accepting responsibility and apologizing to those affected by our mistakes,
+and learning from the experience&lt;&#x2F;li&gt;
+&lt;li&gt;Focusing on what is best not just for us as individuals, but for the
+overall community&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Examples of unacceptable behavior include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The use of sexualized language or imagery, and sexual attention or
+advances of any kind&lt;&#x2F;li&gt;
+&lt;li&gt;Trolling, insulting or derogatory comments, and personal or political attacks&lt;&#x2F;li&gt;
+&lt;li&gt;Public or private harassment&lt;&#x2F;li&gt;
+&lt;li&gt;Publishing others&#x27; private information, such as a physical or email
+address, without their explicit permission&lt;&#x2F;li&gt;
+&lt;li&gt;Other conduct which could reasonably be considered inappropriate in a
+professional setting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;enforcement-responsibilities&quot;&gt;Enforcement Responsibilities&lt;&#x2F;h2&gt;
+&lt;p&gt;Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.&lt;&#x2F;p&gt;
+&lt;p&gt;Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;enforcement&quot;&gt;Enforcement&lt;&#x2F;h2&gt;
+&lt;p&gt;Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+&lt;a href=&quot;mailto:aaranxu@outlook.com&quot;&gt;aaranxu@outlook.com&lt;&#x2F;a&gt;.
+All complaints will be reviewed and investigated promptly and fairly.&lt;&#x2F;p&gt;
+&lt;p&gt;All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;enforcement-guidelines&quot;&gt;Enforcement Guidelines&lt;&#x2F;h2&gt;
+&lt;p&gt;Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;1-correction&quot;&gt;1. Correction&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;2-warning&quot;&gt;2. Warning&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: A violation through a single incident or series
+of actions.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;3-temporary-ban&quot;&gt;3. Temporary Ban&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: A serious violation of community standards, including
+sustained inappropriate behavior.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;4-permanent-ban&quot;&gt;4. Permanent Ban&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A permanent ban from any sort of public interaction within
+the community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;attribution&quot;&gt;Attribution&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct is adapted from the &lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&quot;&gt;Contributor Covenant&lt;&#x2F;a&gt;,
+version 2.0, available at
+&lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;version&#x2F;2&#x2F;0&#x2F;code_of_conduct.html&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;version&#x2F;2&#x2F;0&#x2F;code_of_conduct.html&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Community Impact Guidelines were inspired by 
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mozilla&#x2F;diversity&quot;&gt;Mozilla&#x27;s code of conduct enforcement ladder&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;For answers to common questions about this code of conduct, see the FAQ at
+&lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;faq&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;faq&lt;&#x2F;a&gt;. Translations are available 
+at &lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;translations&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;translations&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>How to Contribute</title>
+        <published>2021-05-01T18:10:00+00:00</published>
+        <updated>2021-05-01T18:10:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/docs/contributing/how-to-contribute/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/docs/contributing/how-to-contribute/</id>
+        
+        <content type="html">&lt;p&gt;👉 Make sure to read the &lt;a href=&quot;..&#x2F;code-of-conduct&#x2F;&quot;&gt;Code of Conduct&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contribute-to-doks&quot;&gt;Contribute to Doks&lt;&#x2F;h2&gt;
+&lt;p&gt;👉 The AdiDoks code lives in the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&quot;&gt;&lt;code&gt;adidoks&lt;&#x2F;code&gt; repository&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;guides.github.com&#x2F;introduction&#x2F;flow&#x2F;&quot;&gt;GitHub flow&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;www.conventionalcommits.org&#x2F;en&#x2F;v1.0.0&#x2F;&quot;&gt;Conventional Commits Specification&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;create-an-issue&quot;&gt;Create an issue&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&#x2F;issues&#x2F;new?template=bug-report---.md&quot;&gt;Bug report&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&#x2F;issues&#x2F;new?template=feature-request---.md&quot;&gt;Feature request&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;improve-documentation&quot;&gt;Improve documentation&lt;&#x2F;h2&gt;
+&lt;p&gt;👉 The documentation lives in &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&#x2F;tree&#x2F;master&#x2F;content&#x2F;docs&quot;&gt;&lt;code&gt;.&#x2F;content&#x2F;docs&#x2F;&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;
+of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;h-enk&#x2F;getdoks.org&quot;&gt;&lt;code&gt;adidoks&lt;&#x2F;code&gt; repository&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;guides.github.com&#x2F;introduction&#x2F;flow&#x2F;&quot;&gt;GitHub flow&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;www.conventionalcommits.org&#x2F;en&#x2F;v1.0.0&#x2F;&quot;&gt;Conventional Commits Specification&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>JuliaCon 2023</title>
+        <published>2021-05-01T09:19:42+00:00</published>
+        <updated>2021-05-01T09:19:42+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/events/juliacon-2023/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/events/juliacon-2023/</id>
+        
+        <content type="html"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>JuliaCon 2024</title>
+        <published>2021-05-01T09:19:42+00:00</published>
+        <updated>2021-05-01T09:19:42+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/events/juliacon-2024/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/events/juliacon-2024/</id>
+        
+        <content type="html"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Quick Start</title>
+        <published>2021-05-01T08:20:00+00:00</published>
+        <updated>2021-05-01T08:20:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/docs/getting-started/quick-start/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/docs/getting-started/quick-start/</id>
+        
+        <content type="html">&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;&#x2F;h2&gt;
+&lt;p&gt;Before using the theme, you need to install the &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;getting-started&#x2F;installation&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt; ≥ 0.15.0.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;run-the-theme-directly&quot;&gt;Run the Theme Directly&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;git&lt;&#x2F;span&gt;&lt;span&gt; clone https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks.git
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span&gt; adidoks
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;zola&lt;&#x2F;span&gt;&lt;span&gt; serve
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Visit &lt;code&gt;http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;&lt;&#x2F;code&gt; in the browser.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;&#x2F;h2&gt;
+&lt;p&gt;Just earlier we showed you how to run the theme directly. Now we start to
+install the theme in an existing site step by step.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-1-create-a-new-zola-site&quot;&gt;Step 1: Create a new zola site&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;zola&lt;&#x2F;span&gt;&lt;span&gt; init mysite
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;step-2-install-adidoks&quot;&gt;Step 2: Install AdiDoks&lt;&#x2F;h3&gt;
+&lt;p&gt;Download this theme to your themes directory:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span&gt; mysite&#x2F;themes
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;git&lt;&#x2F;span&gt;&lt;span&gt; clone https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks.git
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Or install as a submodule:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span&gt; mysite
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;git&lt;&#x2F;span&gt;&lt;span&gt; init  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# if your project is a git repository already, ignore this command
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;git&lt;&#x2F;span&gt;&lt;span&gt; submodule add https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks.git themes&#x2F;adidoks
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;step-3-configuration&quot;&gt;Step 3: Configuration&lt;&#x2F;h3&gt;
+&lt;p&gt;Enable the theme in your &lt;code&gt;config.toml&lt;&#x2F;code&gt; in the site derectory:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;toml&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-toml &quot;&gt;&lt;code class=&quot;language-toml&quot; data-lang=&quot;toml&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;theme &lt;&#x2F;span&gt;&lt;span&gt;= &amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;adidoks&lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Or copy the &lt;code&gt;config.toml.example&lt;&#x2F;code&gt; from the theme directory to your project&#x27;s
+root directory:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;cp&lt;&#x2F;span&gt;&lt;span&gt; themes&#x2F;adidoks&#x2F;config.toml.example config.toml
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;step-4-add-new-content&quot;&gt;Step 4: Add new content&lt;&#x2F;h3&gt;
+&lt;p&gt;You can copy the content from the theme directory to your project:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;cp -r&lt;&#x2F;span&gt;&lt;span&gt; themes&#x2F;adidoks&#x2F;content .
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;You can modify or add new posts in the &lt;code&gt;content&#x2F;blog&lt;&#x2F;code&gt;, &lt;code&gt;content&#x2F;docs&lt;&#x2F;code&gt; or other
+content directories as needed.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-5-run-the-project&quot;&gt;Step 5: Run the project&lt;&#x2F;h3&gt;
+&lt;p&gt;Just run &lt;code&gt;zola serve&lt;&#x2F;code&gt; in the root path of the project:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;zola&lt;&#x2F;span&gt;&lt;span&gt; serve
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;AdiDoks will start the Zola development web server accessible by default at 
+&lt;code&gt;http:&#x2F;&#x2F;127.0.0.1:1111&lt;&#x2F;code&gt;. Saved changes will live reload in the browser.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Introduction</title>
+        <published>2021-05-01T08:00:00+00:00</published>
+        <updated>2021-05-01T08:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/docs/getting-started/introduction/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/docs/getting-started/introduction/</id>
+        
+        <content type="html">&lt;h2 id=&quot;quick-start&quot;&gt;Quick Start&lt;&#x2F;h2&gt;
+&lt;p&gt;One page summary of how to start a new AdiDoks project. &lt;a href=&quot;..&#x2F;quick-start&#x2F;&quot;&gt;Quick Start →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;go-further&quot;&gt;Go further&lt;&#x2F;h2&gt;
+&lt;p&gt;Contributing and Help.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contributing&quot;&gt;Contributing&lt;&#x2F;h2&gt;
+&lt;p&gt;Find out how to contribute to Doks. &lt;a href=&quot;..&#x2F;..&#x2F;contributing&#x2F;how-to-contribute&#x2F;&quot;&gt;Contributing →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;help&quot;&gt;Help&lt;&#x2F;h2&gt;
+&lt;p&gt;Get help on Doks. &lt;a href=&quot;..&#x2F;..&#x2F;help&#x2F;faq&#x2F;&quot;&gt;Help →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Braket</title>
+        <published>2021-05-01T08:00:00+00:00</published>
+        <updated>2021-05-01T08:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/packages/computation/braket/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/packages/computation/braket/</id>
+        
+        <content type="html"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Yao</title>
+        <published>2021-05-01T08:00:00+00:00</published>
+        <updated>2021-05-01T08:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/packages/computation/yao/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/packages/computation/yao/</id>
+        
+        <content type="html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h2&gt;
+&lt;p&gt;Yao is a framework for quantum algorithm design and quantum software development. It aims to provide a flexible, powerful and efficient infrastructure for studying quantum algorithms, as well as developing quantum software in general.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Introduction</title>
+        <published>2021-05-01T08:00:00+00:00</published>
+        <updated>2021-05-01T08:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/packages/getting-started/introduction/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/packages/getting-started/introduction/</id>
+        
+        <content type="html"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Katharine Hyatt</title>
+        <published>2021-04-01T08:50:45+00:00</published>
+        <updated>2021-04-01T08:50:45+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/authors/kathrine/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/authors/kathrine/</id>
+        
+        <content type="html">&lt;p&gt;Creator of Braket etc. Winner of the JuliaCon community award&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kshyatt&quot;&gt;@kshyatt&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kshyatt-aws&quot;&gt;@kshyatt-aws&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Xiu-Zhe (Roger) Luo</title>
+        <published>2021-04-01T08:50:45+00:00</published>
+        <updated>2021-04-01T08:50:45+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://JuliaQuantum.github.io/authors/roger-luo/" type="text/html"/>
+        <id>https://JuliaQuantum.github.io/authors/roger-luo/</id>
+        
+        <content type="html">&lt;p&gt;Creator of Yao, Bloqade, etc.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Roger-luo&quot;&gt;@Roger-luo&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
